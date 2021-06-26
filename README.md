@@ -1,5 +1,7 @@
 # README
 
+[![Join the chat at https://gitter.im/luo0412/arch-survive](https://badges.gitter.im/luo0412/arch-survive.svg)](https://gitter.im/luo0412/arch-survive?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > 技术演进轴 @building
 
 - 神情内敛, 精神明亮
